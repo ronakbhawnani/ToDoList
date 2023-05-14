@@ -11,6 +11,7 @@ import android.widget.CompoundButton;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.todolist.AddNewTask;
 import com.example.todolist.MainActivity;
 import com.example.todolist.Model.ToDoModel;
 import com.example.todolist.R;
